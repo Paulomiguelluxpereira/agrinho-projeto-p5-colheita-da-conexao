@@ -55,4 +55,4 @@ O jogo busca conscientizar sobre:
 🚚 O trabalho dos produtores e caminhoneiros na cadeia alimentar.
 🏙️ A interdependência entre áreas rurais e urbanas.
 
-feito uusando DeepSeek
+feito usando DeepSeek
